@@ -44,4 +44,5 @@ if (!$signature) {
 if (!$signer->check($signature, $path, $payload)) {
     throw new RuntimeException('Invalid signature');
 }
+
 ```
