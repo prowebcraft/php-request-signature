@@ -1,6 +1,6 @@
 <?php
 
-namespace Prowebcraft\PhpRequestSignature;
+namespace Prowebcraft;
 
 /**
  * Class for signing and verifying requests.

@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use Prowebcraft\PhpRequestSignature\Signature;
+use Prowebcraft\Signature;
 
 class SignatureTest extends TestCase
 {
